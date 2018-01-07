@@ -1,5 +1,5 @@
 /*
- * File:   reversi.cpp
+ * File:   connectfour.cpp
  * Author: EFKAN DURAKLI - 161044086
  *
  * Created on October 1, 2017, 11:00 PM
