@@ -1,10 +1,10 @@
-Bu projede Java'nın Graphical User interface kütüphanesini 
+Bu projede Java'nın Graphical User interface kütüphanelerini
 kullanarak ConnectFour oyunu yaptık.
 
 Program çalışmaya başladığında ilk olarak bir Seçenek kutusu açılmaktadır.
 Bu seçenek kutusuna oyununun oynayacağı bordun büyüklüğü girilir.
 Bordun büyüklüğü minumum 5, maximum 30 olmaktadır.
-Bu kutuyu boş bırakırsanız veya sayı dışında başka karakter girerseniz oyun düzgün anormal bir şekilde sonlanır.
+Bu kutuyu boş bırakırsanız veya sayı dışında başka karakter girerseniz oyun anormal bir şekilde sonlanır.
 Eğer yanlış seçenek girerseniz tekrardan girmeniz için seçenek kutusu gelir.
 
 Oyunun büyüklüğünü doğru bir şekilde girdikten sonra oyunun modunu girmek için bir seçenek kutusu gelir.
